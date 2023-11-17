@@ -1,4 +1,4 @@
-##Features
+## Features
 
 - Como admin podras crear ventas, ver la ventas de todos los usuarios y asignar o quitar admin a un usuario.
 - Como usuario podras agregar ventas, y ver solo tus ventas
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
-####Como instalar
+#### Como instalar
 
 `$ npm install
 
