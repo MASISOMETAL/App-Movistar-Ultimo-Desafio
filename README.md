@@ -11,7 +11,7 @@
 
 #### Como instalar
 
-`$ npm install
+`$ npm install`
 
 #### Integraion de Firebase
 
